@@ -9,6 +9,8 @@ All Fields Must be Completed for Certification
 
 4.) PREFILL - FTSO Candidate:
 
+5.) PREFILL - Generated Random:
+
 
 Meeting Notes
 ----------------------------------------------
