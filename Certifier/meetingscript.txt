@@ -10,24 +10,36 @@ All Fields Must be Completed for Certification
 4.) PREFILL - FTSO Candidate:
 
 
-Meeting Notes:
+Meeting Notes
+----------------------------------------------
 
 1.) What is your FTSO Name? 
-Response: 
+RESPONSE:
+
 
 2.) How many developers work on your FTSO? 
-Response:
+RESPONSE:
+
 
 3.) Where is your FTSO based? 
-Response:
+RESPONSE:
+
 
 4.) Wallet Validation 
-TxId:
+TX_ID:
+
 
 5.) Attestation from each developer 
 (YES/NO): 
 
-6.) General Notes (OPTIONAL):
+
+6.) General Notes 
+(OPTIONAL):
+
+
+7.) I certify that this is a truthful attestation based on the candidate responses 
+(PEER CERTIFIER FTSO NAME):
+
 
 
 Upload this to 'PASSED' folder with CANDIDATE FTSO name if candidate passes for archiving.
