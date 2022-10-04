@@ -53,6 +53,12 @@ If your native language is not english, we will make every attempt to accomodate
 * *Placeholder 1*
 * *Placeholder 2*
 
+## Disclaimer
+
+**Good Faith & How to Report Abuse**
+
+*Disclaimer Here*
+
 ## Trained Certifier List and Contact
 
 * FTSO 1 (1st Certifier Cohort - October 2022)
