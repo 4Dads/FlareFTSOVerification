@@ -40,6 +40,7 @@ If your native language is not english, we will make every attempt to accomodate
 * Please accomodate your peers to the best that your schedule allows
 * First round of certifiers will be on an invite-basis only
 * Attend training session & agree to peer certifier attestation
+* Certifiers will be barred from promoting 'Certifier' status for delegation and/or financial gain
 
 ## Privacy Policy
 
