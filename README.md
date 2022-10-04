@@ -20,6 +20,8 @@
 
 **Step 2: Short Meeting (Live) with two (2) Certifiers**
 
+**PLEASE NOTE:** Your peer certifiers will need to verify their identities through wallet transactions before any questions are asked. A random number will be generated and used throughout the wallet validation phase. Please note the SGB wallets of your certifiers before speaking with them. Your certifiers should only ask the questions below.
+
 Questions your FTSO will be asked:
 * ~~Would you like this session recorded and copies given to you and your certifiers? (remove?)~~
 * ~~Would you like the session to be published on --site--? (remove?)~~
