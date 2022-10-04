@@ -14,7 +14,11 @@
 
 ## What to Expect as a Provider
 
-**Short Meeting (Live) with two (2) Certifiers**
+**Step 1: How to Request Certification**
+
+*Insert Request Text Here*
+
+**Step 2: Short Meeting (Live) with two (2) Certifiers**
 
 Questions your FTSO will be asked:
 * ~~Would you like this session recorded and copies given to you and your certifiers? (remove?)~~
