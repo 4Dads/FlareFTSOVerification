@@ -26,6 +26,8 @@ RESPONSE:
 
 
 4.) Wallet Validation 
+NETWORK NAME (SGB/FLR):
+WALLET ADDRESS PROVEN:
 TX_ID:
 
 
