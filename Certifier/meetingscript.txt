@@ -1,1 +1,33 @@
-Placeholder
+All Fields Must be Completed for Certification
+----------------------------------------------
+
+1.) PREFILL - Independent Certifiers Present (2 Distinct FTSO Certifiers):
+
+2.) PREFILL - Certifier Filling out this Form (FTSO Name):
+
+3.) PREFILL - Today's Date:
+
+4.) PREFILL - FTSO Candidate:
+
+
+Meeting Notes:
+
+1.) What is your FTSO Name? 
+Response: 
+
+2.) How many developers work on your FTSO? 
+Response:
+
+3.) Where is your FTSO based? 
+Response:
+
+4.) Wallet Validation 
+TxId:
+
+5.) Attestation from each developer 
+(YES/NO): 
+
+6.) General Notes (OPTIONAL):
+
+
+Upload this to 'PASSED' folder with CANDIDATE FTSO name if candidate passes for archiving.
