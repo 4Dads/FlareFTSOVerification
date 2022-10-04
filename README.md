@@ -2,7 +2,7 @@
 
 ## Objective
 
-Insert Objective Here (explain benefits)
+*Insert Objective Here (explain benefits)*
 
 **Long and Short-Term Goals:**
 
@@ -10,25 +10,23 @@ Insert Objective Here (explain benefits)
 * Voluntary Opt-in Process
 * Scalable Certification Process (Train the Certifier)
 * Respect Privacy of Signal Provider
-* Verified Badge to Display on Public Websites
+* Verified Badge to Display on Public Websites and Social Media Accounts
 
 ## What to Expect as a Provider
 
 **Short Meeting (Live) with two (2) Certifiers**
 
 Questions your FTSO will be asked:
-* Would you like this session recorded and copies given to you and your certifiers? (remove?)
-* Would you like the session to be published on --site--? (remove?)
+* ~~Would you like this session recorded and copies given to you and your certifiers? (remove?)~~
+* ~~Would you like the session to be published on --site--? (remove?)~~
 * What is your FTSO Name?
 * How many developers work on your FTSO?
 * Where is your FTSO based?
 * Attestation from each developer
-* Placeholder 1
-* Placeholder 2
 
 **Attestation Statement**
 
-Attestation Statement Here
+*Attestation Statement Here*
 
 **Note:**
 
@@ -41,19 +39,20 @@ If your native language is not english, we will make every attempt to accomodate
 * You must have been submitting signals consistently for one (1) calendar year to apply
 * Please accomodate your peers to the best that your schedule allows
 * First round of certifiers will be on an invite-basis only
-* Placeholder 1
-* Placeholder 2
+* Attend training session & agree to peer certifier attestation
 
 ## Privacy Policy
 
-**What we do with your Data you Opt-In**
+**What we do with your Data when you Opt-In**
 
-* Placeholder 1
-* Placeholder 2
+* *Placeholder 1*
+* *Placeholder 2*
 
 ## Trained Certifier List and Contact
 
-* FTSO 1
-* FTSO 2
+* FTSO 1 (1st Certifier Cohort - October 2022)
+* FTSO 2 (1st Certifier Cohort - October 2022)
+* FTSO 3 (1st Certifier Cohort - October 2022)
+* FTSO 4 (1st Certifier Cohort - October 2022)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#README-top">back to top</a>)</p>
