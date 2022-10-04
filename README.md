@@ -40,7 +40,7 @@ If your native language is not english, we will make every attempt to accomodate
 
 ## What to Expect as a Peer Certifier
 
-* You must have been submitting signals consistently for one (1) calendar year to apply
+* You must have been submitting signals consistently for one (1) calendar year to apply and have good standing in the FTSO Community
 * Please accomodate your peers to the best that your schedule allows
 * First round of certifiers will be on an invite-basis only
 * Attend training session & agree to peer certifier attestation
