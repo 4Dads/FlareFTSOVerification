@@ -26,6 +26,7 @@ Questions your FTSO will be asked:
 * What is your FTSO Name?
 * How many developers work on your FTSO?
 * Where is your FTSO based?
+* Wallet Validation (Placeholder)
 * Attestation from each developer
 
 **Attestation Statement**
